@@ -36,6 +36,6 @@ func main() {
 }
 
 func init() {
-	flag.IntVar(&limit, "n", 10, "number of articles to display")
+	flag.IntVar(&limit, "n", 5, "number of articles to display")
 	flag.Parse()
 }

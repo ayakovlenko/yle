@@ -9,7 +9,7 @@ go get -u github.com/ayakovlenko/yle
 ## Usage
 
 ```plain
-$ yle -n 3
+$ yle -n 3  # default -- 5
 April 18, 10:53
 Murky firms seek big wins selling hard-to-get PPE
 https://yle.fi/uutiset/osasto/news/murky_firms_seek_big_wins_selling_hard-to-get_ppe/11311973
